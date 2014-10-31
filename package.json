@@ -1,0 +1,28 @@
+{
+  "name": "angular-phones",
+  "version": "1.0.0",
+  "description": "Angular directive for parsing phone inputs",
+  "main": "./src",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bendrucker/angular-phones.git"
+  },
+  "keywords": [
+    "angular",
+    "phones",
+    "validation",
+    "formatting"
+  ],
+  "author": "Ben Drucker <bvdrucker@gmail.com> (http://www.bendrucker.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bendrucker/angular-phones/issues"
+  },
+  "homepage": "https://github.com/bendrucker/angular-phones",
+  "dependencies": {
+    "phones": "~0.1.0"
+  }
+}
