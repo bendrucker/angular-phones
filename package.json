@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/bendrucker/angular-phones",
   "dependencies": {
-    "phones": "~0.1.0"
+    "phones": "~2.0.1"
   }
 }
